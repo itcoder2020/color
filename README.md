@@ -1,6 +1,8 @@
 # color api
 ## How to use 
-`Url` localhost:3000/api/color method POST
+npm i
+npm start
+call `Url` localhost:3000/api/color method POST bp
 ## Body
 ```json 
 {"color":"#CC0099"}
