@@ -1,7 +1,5 @@
 # color api
 ## How to use 
-npm i
-npm start
 call `Url` localhost:3000/api/color method POST bp
 ## Body
 ```json 
